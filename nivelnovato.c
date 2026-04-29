@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//comparar cartas
 int main() {
     char estado1[10], estado2[10];
     char codigo1[10], codigo2[10];   // espaço para códigos
